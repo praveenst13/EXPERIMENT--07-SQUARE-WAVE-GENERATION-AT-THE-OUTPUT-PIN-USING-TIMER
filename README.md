@@ -109,6 +109,7 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
+![image](https://github.com/user-attachments/assets/a76fcd76-b36a-4f94-8e95-80348a75b84f)
 
 TON = 
 TOFF=
