@@ -111,9 +111,9 @@ Step14. click on debug and simulate using simulation as shown below
 FOR PULSE AT 500
 ![image](https://github.com/user-attachments/assets/a76fcd76-b36a-4f94-8e95-80348a75b84f)
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 3*10=30
+TOFF=3*10=30
+TOTAL TIME = 30+30=60
 FREQUENCY = 1/(TOTAL TIME)
 
 FOR PULSE AT 750
