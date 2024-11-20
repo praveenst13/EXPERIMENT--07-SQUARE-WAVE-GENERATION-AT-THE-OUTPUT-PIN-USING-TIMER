@@ -144,7 +144,7 @@ TOTAL TIME = 57
 
 FREQUENCY = 1/57 = 0.01754 = 1.7 KHZ
 
-Duty Cycle % = (45/57)*100 = 75%
+Duty Cycle % = (45/57)*100 = 78%
 
 ### FOR PULSE AT 250
 TON = 1.7*10 = 17
@@ -155,7 +155,7 @@ TOTAL TIME = 60
 
 FREQUENCY = 1/60 = 0.00166 = 1.6 KHZ
 
-Duty Cycle % = (17/60)*100 = 25%
+Duty Cycle % = (17/60)*100 = 28%
 
 
 ## Result :
