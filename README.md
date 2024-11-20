@@ -116,7 +116,8 @@ TOFF=
 TOTAL TIME = 
 FREQUENCY = 1/(TOTAL TIME)
 
-FOR PULSE AT 700
+FOR PULSE AT 750
+![image](https://github.com/user-attachments/assets/f1fbb8cd-d688-44a3-bf80-c26f5e6e1081)
 
 TON = 
 TOFF=
@@ -124,7 +125,8 @@ TOTAL TIME =
 FREQUENCY = 1/(TOTAL TIME)
 
 
-FOR PULSE AT 900
+FOR PULSE AT 250
+![image](https://github.com/user-attachments/assets/9bd7af66-332a-4b95-b346-48f674b3ba7a)
 
 TON = 
 TOFF=
