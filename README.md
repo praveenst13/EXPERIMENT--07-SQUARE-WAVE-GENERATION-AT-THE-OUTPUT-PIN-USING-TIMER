@@ -126,21 +126,35 @@ FOR PULSE AT 250
 
 ### FOR PULSE AT 500
 TON = 3*10=30
+
 TOFF=3*10=30
+
 TOTAL TIME = 30+30=60
+
 REQUENCY = 1/60 = 0.0166 = 1.6 KHZ
+
 Duty Cycle % = (30/60)*100 = 50%
+
 ### FOR PULSE AT 750
 TON = 4.5*10 = 45
+
 TOFF= 1.2*10 = 12
+
 TOTAL TIME = 57
+
 FREQUENCY = 1/57 = 0.01754 = 1.7 KHZ
+
 Duty Cycle % = (45/57)*100 = 75%
+
 ### FOR PULSE AT 250
 TON = 1.7*10 = 17
+
 TOFF= 4.3*10 = 43
+
 TOTAL TIME = 60
+
 FREQUENCY = 1/60 = 0.00166 = 1.6 KHZ
+
 Duty Cycle % = (17/60)*100 = 25%
 
 
